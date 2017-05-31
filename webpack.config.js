@@ -15,6 +15,6 @@ module.exports = {
     },
     resolve: {
         extensions: ['', '.js'],
-        modulesDirectories: ['src', 'lib', 'node_modules']
+        modulesDirectories: ['src', 'node_modules']
     }
 };

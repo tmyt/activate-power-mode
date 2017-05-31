@@ -13,6 +13,6 @@
     "webpack": "^1.12.9"
   },
   "dependencies": {
-    "textarea-caret-position": "^0.1.1"
+    "textarea-caret": "^3.0.2"
   }
 }
